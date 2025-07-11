@@ -20,12 +20,15 @@ This project implements a scalable, serverless ETL pipeline to process and analy
 
 ## Folder Structure
 ```
-📁 src/
+📁 Scripts/
     ├── lambda_function.py
     ├── pyspark_code.py
     └── s3_cli_command.sh
-📁 docs/
+📁 Architecture/
     ├── architecture.jpeg
+📁 Data/
+    ├── .......json
+    ├── .......CSV
 📄 requirements.txt
 📄 README.md
 ```
