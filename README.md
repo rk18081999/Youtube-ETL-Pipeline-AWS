@@ -1,4 +1,4 @@
-# Global YouTube ETL Pipeline on AWS
+# YouTube Data ETL Pipeline on AWS
 
 ## Overview
 This project implements a scalable, serverless ETL pipeline to process and analyze global YouTube data using AWS services. It demonstrates how to build an end-to-end data platform using S3, AWS Glue, Lambda, Redshift, and PySpark.
